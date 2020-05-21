@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" style="task" id="editing" xml:lang="pl">
+
+  <info>
+    <link type="guide" xref="index#faq"/>
+    <desc>W <app>Przeglądarce dokumentów</app> nie można modyfikować plików.</desc>
+
+    <revision pkgversion="3.2" version="0.1" date="2011-09-05" status="final"/>
+    <revision pkgversion="3.34" version="0.2" date="2019-11-26" status="final"/>
+    <credit type="author">
+      <name>Phil Bull</name>
+      <email>philbull@gmail.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Piotr Drąg</mal:name>
+      <mal:email>piotrdrag@gmail.com</mal:email>
+      <mal:years>2017-2020</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Aviary.pl</mal:name>
+      <mal:email>community-poland@mozilla.org</mal:email>
+      <mal:years>2017-2020</mal:years>
+    </mal:credit>
+  </info>
+
+<title>Czy mogę modyfikować dokumenty w Przeglądarce dokumentów?</title>
+
+
+ <p><app>Przeglądarki dokumentów</app> nie można używać do zmieniania dokumentów. Należy użyć programu odpowiedniego dla danego typu pliku.</p>
+
+
+<note>
+ <p>Pliki PDF i PostScript (.ps) zwykle nie są przeznaczone do modyfikacji, ale dostępne jest oprogramowanie do edycji plików PDF, na przykład <app>LibreOffice Draw</app> i <app>Okular</app>. <app>pdfarranger</app> umożliwia zmienianie kolejności i usuwanie stron oraz łączenie plików.</p>
+</note>
+</page>

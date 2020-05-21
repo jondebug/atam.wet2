@@ -1,0 +1,18 @@
+lzmasdk/libunarr_la-Ppmd7Dec.lo: lzmasdk/Ppmd7Dec.c \
+ /usr/include/stdc-predef.h lzmasdk/Precomp.h lzmasdk/Ppmd7.h \
+ lzmasdk/Ppmd.h lzmasdk/CpuArch.h lzmasdk/7zTypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+lzmasdk/Precomp.h:
+
+lzmasdk/Ppmd7.h:
+
+lzmasdk/Ppmd.h:
+
+lzmasdk/CpuArch.h:
+
+lzmasdk/7zTypes.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:

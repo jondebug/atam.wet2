@@ -1,0 +1,13 @@
+lzmasdk/libunarr_la-CpuArch.lo: lzmasdk/CpuArch.c \
+ /usr/include/stdc-predef.h lzmasdk/Precomp.h lzmasdk/CpuArch.h \
+ lzmasdk/7zTypes.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+lzmasdk/Precomp.h:
+
+lzmasdk/CpuArch.h:
+
+lzmasdk/7zTypes.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>evince-comicsdocument</id>
+  <extends>org.gnome.Evince</extends>
+  <name>Comic Books</name>
+  <summary>Adds support for reading comic books</summary>
+  <mimetypes>
+    <mimetype>application/x-cbr</mimetype>
+    <mimetype>application/x-cbz</mimetype>
+    <mimetype>application/x-cb7</mimetype>
+    <mimetype>application/x-cbt</mimetype>
+    <mimetype>application/x-ext-cbr</mimetype>
+    <mimetype>application/x-ext-cbz</mimetype>
+    <mimetype>application/x-ext-cb7</mimetype>
+    <mimetype>application/x-ext-cbt</mimetype>
+    <mimetype>application/vnd.comicbook+zip</mimetype>
+    <mimetype>application/vnd.comicbook-rar</mimetype>
+  </mimetypes>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <url type="homepage">https://wiki.gnome.org/Apps/Evince/SupportedDocumentFormats</url>
+  <metadata_license>GPL-2.0+ or GFDL-1.3-only</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <update_contact>evince-list@gnome.org</update_contact>
+</component>

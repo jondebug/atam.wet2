@@ -1,0 +1,8 @@
+afmparse.lo: afmparse.c /usr/include/stdc-predef.h ../../../config.h \
+ sysdeps.h
+
+/usr/include/stdc-predef.h:
+
+../../../config.h:
+
+sysdeps.h:
