@@ -976,6 +976,7 @@ ev_application_startup (GApplication *gapplication)
           "win.fullscreen",             "F11", NULL,
           "win.presentation",           "F5", "<Shift>F5", NULL,
           "win.continuous",             "c", NULL,
+	  "win.creator-mode",           "c", NULL,
           "win.dual-page",              "d", NULL,
           "win.rotate-left",            "<Ctrl>Left", NULL,
           "win.rotate-right",           "<Ctrl>Right", NULL,
